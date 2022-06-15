@@ -9,6 +9,6 @@ jobs:
       # REPLACE THE FOLLOWING WITH THE PROPER VALUES
       # - YOUR_GITHUB_USER_NAME
       # - YOUR_COMPOSITE_ACTION_REPO_NAME
-      - uses: YOUR_GITHUB_USER_NAME/YOUR_COMPOSITE_ACTION_REPO_NAME@main
+      - uses: khanabid20/composite-actions-the-action@main
         with:
           PYTHON_VERSION: 3.8
